@@ -24,3 +24,6 @@ npm run dev
 
 ## Testing
 
+bash
+npm test
+
