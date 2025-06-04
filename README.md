@@ -10,3 +10,6 @@
 
 ## Installation
 
+bash
+npm install
+
